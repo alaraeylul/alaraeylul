@@ -1,3 +1,3 @@
-## Hi there 👋
+## Hi there!  👋
 
 ![Kapak Fotoğrafı](download.jfif)
