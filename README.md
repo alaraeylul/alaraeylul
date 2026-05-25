@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--![Kapak Fotoğrafı](download.jfif)
+![Kapak Fotoğrafı](download.jfif)
 **alaraeylul/alaraeylul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
